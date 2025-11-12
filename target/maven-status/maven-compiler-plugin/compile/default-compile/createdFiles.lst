@@ -1,0 +1,5 @@
+com\example\quartz\service\SchedulerService.class
+com\example\quartz\config\QuartzConfig.class
+com\example\quartz\controller\SchedulerController.class
+com\example\quartz\job\HelloJob.class
+com\example\quartz\QuartzSchedulerApplication.class
