@@ -10,7 +10,7 @@
 7. [Project Structure](#project-structure)
 8. [How It Works](#how-it-works)
 
----
+-----
 
 ## 🎯 Project Overview
 
